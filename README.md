@@ -8,7 +8,7 @@ Uma calculadora simples desenvolvida em **Rust**, que realiza operações básic
 
 ---
 
-## Estrutura do Projeto
+## Estrutura do Projeto 🗃️
 
     ```bash
     calculadora/
@@ -28,7 +28,7 @@ Uma calculadora simples desenvolvida em **Rust**, que realiza operações básic
 
 ---
 
-## Instalação do Rust
+## Instalação do Rust 💻
 
 Para instalar o Rust, visite [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/pt-BR/tools/install) e siga os passos para instalação de acordo com seu sistema operacional.
 
@@ -37,20 +37,20 @@ Para instalar o Rust, visite [https://www.rust-lang.org/tools/install](https://w
 
 ---
 
-## Funcionalidades
+## Funcionalidades 📑	
 
 - Operações suportadas:
-  - Soma
-  - Subtração
-  - Multiplicação
-  - Divisão (com tratamento de divisão por zero)
+  - ➕ Soma
+  - ➖ Subtração
+  - ✖️ Multiplicação
+  - ➗ Divisão (com tratamento de divisão por zero)
 - Menu interativo com opção de sair (`0`)
 - Entrada de dados via terminal
 - Testes unitários para todas as funções matemáticas
 
 ---
 
-## Como Executar
+## Como Executar 🔧
 
 1. Clone o projeto:
 
@@ -87,7 +87,7 @@ Para instalar o Rust, visite [https://www.rust-lang.org/tools/install](https://w
     ```
 
 4. Executando Testes:
-
+ 
     ```bash
     cargo test
     ```
@@ -106,7 +106,7 @@ Para instalar o Rust, visite [https://www.rust-lang.org/tools/install](https://w
     ```
 ---
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas ⚙️
 
 - Linguagem: Rust
 - Ferramentas: Cargo (gerenciador de pacotes e compilação)
@@ -115,7 +115,7 @@ Para instalar o Rust, visite [https://www.rust-lang.org/tools/install](https://w
 
 ---
 
-## Considerações
+## Considerações Finais 📝
 
 Este projeto serve como exemplo de:
 
@@ -126,20 +126,20 @@ Este projeto serve como exemplo de:
 
 ---
 
-## Contribua
+## Contribua 🤝
 
 Se você deseja contribuir para o projeto, sinta-se a vontade para abrir uma issue ou enviar uma pull request. Agradecemos por suas contribuições!
 
 ---
 
-## Licenca
+## Licenca 📜
 
 Este projeto segue a licenca [Apache-2.0](https://github.com/Danieltandrade/Calculadora-Em-Rust/blob/main/LICENSE).
 
 ---
 
-## Conclusão
+## Conclusão 🎉
 
 Este projeto foi meu primeiro contato com a linguagem de programação __RUST__, e foi um aprendizado muito interessante.
-Mesmo esplorando pouco as funcionalidades da linguagem, ainda aprendi bastante, e sou muito feliz com o resultado final.
+Mesmo explorando pouco as funcionalidades da linguagem, ainda aprendi bastante, e sou muito feliz com o resultado final.
 Obrigado por visitar meu trabalho!
